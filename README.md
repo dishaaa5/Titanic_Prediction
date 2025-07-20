@@ -40,3 +40,9 @@ This project is a machine learning web app that predicts whether a Titanic passe
 
 ## 📁 Project Structure
 
+**Titanic-survival-prediction:**
+
+ - Titanic.csv # Dataset file
+ - titanic_model.pkl # Trained ML model (Pickle)
+ - titanic_all_in_one.py # Combined Streamlit app + model training
+ - README.md # This documentation file
